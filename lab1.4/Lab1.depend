@@ -1,0 +1,356 @@
+# depslib dependency file v1.0
+1638088276 source:c:\users\ingemar\documents\testa på windows\common\gl_utilities.c
+	<Windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<stddef.h>
+	<string.h>
+	"GL_utilities.h"
+
+1601079010 c:\users\ingemar\documents\testa på windows\common\gl_utilities.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	<GL/gl.h>
+	<stdlib.h>
+
+1504148332 c:\users\ingemar\documents\testa på windows\common\windows\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1635949204 source:c:\users\ingemar\documents\testa på windows\common\littleobjloader.c
+	"LittleOBJLoader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"VectorUtils3.h"
+
+1615488958 c:\users\ingemar\documents\testa på windows\common\littleobjloader.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	"VectorUtils3.h"
+
+1622439322 c:\users\ingemar\documents\testa på windows\common\vectorutils3.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	<math.h>
+	<stdio.h>
+
+1622439330 source:c:\users\ingemar\documents\testa på windows\common\vectorutils3.c
+	"VectorUtils3.h"
+
+1504148332 source:c:\users\ingemar\documents\testa på windows\common\windows\glew.c
+	"glew.h"
+	"wglew.h"
+	<GL/glxew.h>
+	<stddef.h>
+	<dlfcn.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	<AvailabilityMacros.h>
+	<dlfcn.h>
+	<mach-o/dyld.h>
+
+1504148332 c:\users\ingemar\documents\testa på windows\common\windows\wglew.h
+	<windows.h>
+
+1641980106 source:c:\users\ingemar\documents\testa på windows\common\windows\microglut.c
+	<windows.h>
+	"glew.h"
+	<gl/gl.h>
+	"MicroGlut.h"
+	<stdio.h>
+	<io.h>
+	<fcntl.h>
+
+1641979870 c:\users\ingemar\documents\testa på windows\common\windows\microglut.h
+
+1667815932 source:c:\users\ingemar\documents\testa på windows\lab1\lab1.c
+	"MicroGlut.h"
+	"GL_utilities.h"
+	<math.h>
+	<stdio.h>
+	"LittleOBJLoader.h"
+	"noise1234.h"
+	"simplexnoise1234.h"
+	"cellular.h"
+
+1619241466 c:\users\ingemar\documents\testa på windows\lab1\noise\noise1234.h
+
+1619241556 c:\users\ingemar\documents\testa på windows\lab1\noise\simplexnoise1234.h
+
+1619241508 c:\users\ingemar\documents\testa på windows\lab1\noise\cellular.h
+
+1478269306 source:c:\users\ingemar\documents\testa på windows\lab1\noise\cellular.c
+	<math.h>
+	<stdio.h>
+	"cellular.h"
+
+1383935336 source:c:\users\ingemar\documents\testa på windows\lab1\noise\noise1234.c
+	"noise1234.h"
+
+1383935926 source:c:\users\ingemar\documents\testa på windows\lab1\noise\simplexnoise1234.c
+	"simplexnoise1234.h"
+
+1638088276 source:c:\users\ingemar\documents\testa på windows\tnm084\common\gl_utilities.c
+	<Windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<stddef.h>
+	<string.h>
+	"GL_utilities.h"
+
+1601079010 c:\users\ingemar\documents\testa på windows\tnm084\common\gl_utilities.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	<GL/gl.h>
+	<stdlib.h>
+
+1504148332 c:\users\ingemar\documents\testa på windows\tnm084\common\windows\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1504148332 source:c:\users\ingemar\documents\testa på windows\tnm084\common\windows\glew.c
+	"glew.h"
+	"wglew.h"
+	<GL/glxew.h>
+	<stddef.h>
+	<dlfcn.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	<AvailabilityMacros.h>
+	<dlfcn.h>
+	<mach-o/dyld.h>
+
+1504148332 c:\users\ingemar\documents\testa på windows\tnm084\common\windows\wglew.h
+	<windows.h>
+
+1668075510 source:c:\users\ingemar\documents\testa på windows\tnm084\common\windows\microglut.c
+	<windows.h>
+	"glew.h"
+	<gl/gl.h>
+	"MicroGlut.h"
+	<stdio.h>
+	<io.h>
+	<fcntl.h>
+
+1641979870 c:\users\ingemar\documents\testa på windows\tnm084\common\windows\microglut.h
+
+1478269306 source:c:\users\ingemar\documents\testa på windows\tnm084\lab1\noise\cellular.c
+	<math.h>
+	<stdio.h>
+	"cellular.h"
+
+1619241508 c:\users\ingemar\documents\testa på windows\tnm084\lab1\noise\cellular.h
+
+1383935336 source:c:\users\ingemar\documents\testa på windows\tnm084\lab1\noise\noise1234.c
+	"noise1234.h"
+
+1619241466 c:\users\ingemar\documents\testa på windows\tnm084\lab1\noise\noise1234.h
+
+1383935926 source:c:\users\ingemar\documents\testa på windows\tnm084\lab1\noise\simplexnoise1234.c
+	"simplexnoise1234.h"
+
+1619241556 c:\users\ingemar\documents\testa på windows\tnm084\lab1\noise\simplexnoise1234.h
+
+1613375762 source:c:\users\ingemar\documents\testa på windows\tnm084\common\loadtga.c
+	"LoadTGA.h"
+
+1601078976 c:\users\ingemar\documents\testa på windows\tnm084\common\loadtga.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1668074721 source:c:\users\ingemar\documents\testa på windows\tnm084\lab1\lab1.c
+	"MicroGlut.h"
+	"GL_utilities.h"
+	<math.h>
+	<stdio.h>
+	"VectorUtils4.h"
+	"LittleOBJLoader.h"
+	"noise1234.h"
+	"simplexnoise1234.h"
+	"cellular.h"
+
+1661754418 c:\users\ingemar\documents\testa på windows\tnm084\common\littleobjloader.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	"VectorUtils4.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"VectorUtils4.h"
+
+1668075055 c:\users\ingemar\documents\testa på windows\tnm084\common\vectorutils4.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	<math.h>
+	<stdio.h>
+
+1698675177 source:c:\users\bmwpe\desktop\tnm084 labs\common\gl_utilities.c
+	<Windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<stddef.h>
+	<string.h>
+	"GL_utilities.h"
+
+1698675177 c:\users\bmwpe\desktop\tnm084 labs\common\gl_utilities.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	<GL/gl.h>
+	<stdlib.h>
+
+1698675178 c:\users\bmwpe\desktop\tnm084 labs\common\windows\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1698675177 source:c:\users\bmwpe\desktop\tnm084 labs\common\loadtga.c
+	"LoadTGA.h"
+
+1698675177 c:\users\bmwpe\desktop\tnm084 labs\common\loadtga.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1698675178 source:c:\users\bmwpe\desktop\tnm084 labs\common\windows\glew.c
+	"glew.h"
+	"wglew.h"
+	<GL/glxew.h>
+	<stddef.h>
+	<dlfcn.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	<AvailabilityMacros.h>
+	<dlfcn.h>
+	<mach-o/dyld.h>
+
+1698675178 c:\users\bmwpe\desktop\tnm084 labs\common\windows\wglew.h
+	<windows.h>
+
+1698675178 source:c:\users\bmwpe\desktop\tnm084 labs\common\windows\microglut.c
+	<windows.h>
+	"glew.h"
+	<gl/gl.h>
+	"MicroGlut.h"
+	<stdio.h>
+	<io.h>
+	<fcntl.h>
+
+1698675178 c:\users\bmwpe\desktop\tnm084 labs\common\windows\microglut.h
+
+1698671582 source:c:\users\bmwpe\desktop\tnm084 labs\lab1\noise\cellular.c
+	<math.h>
+	<stdio.h>
+	"cellular.h"
+
+1698671582 c:\users\bmwpe\desktop\tnm084 labs\lab1\noise\cellular.h
+
+1698671582 source:c:\users\bmwpe\desktop\tnm084 labs\lab1\noise\noise1234.c
+	"noise1234.h"
+
+1698671582 c:\users\bmwpe\desktop\tnm084 labs\lab1\noise\noise1234.h
+
+1698671582 source:c:\users\bmwpe\desktop\tnm084 labs\lab1\noise\simplexnoise1234.c
+	"simplexnoise1234.h"
+
+1698671582 c:\users\bmwpe\desktop\tnm084 labs\lab1\noise\simplexnoise1234.h
+
+1698671582 source:c:\users\bmwpe\desktop\tnm084 labs\lab1.2\noise\cellular.c
+	<math.h>
+	<stdio.h>
+	"cellular.h"
+
+1698671582 c:\users\bmwpe\desktop\tnm084 labs\lab1.2\noise\cellular.h
+
+1698671582 source:c:\users\bmwpe\desktop\tnm084 labs\lab1.2\noise\noise1234.c
+	"noise1234.h"
+
+1698671582 c:\users\bmwpe\desktop\tnm084 labs\lab1.2\noise\noise1234.h
+
+1698671582 source:c:\users\bmwpe\desktop\tnm084 labs\lab1.2\noise\simplexnoise1234.c
+	"simplexnoise1234.h"
+
+1698671582 c:\users\bmwpe\desktop\tnm084 labs\lab1.2\noise\simplexnoise1234.h
+
+1698675182 source:c:\users\bmwpe\desktop\tnm084 labs\lab1.4\noise\cellular.c
+	<math.h>
+	<stdio.h>
+	"cellular.h"
+
+1698675182 c:\users\bmwpe\desktop\tnm084 labs\lab1.4\noise\cellular.h
+
+1698675182 source:c:\users\bmwpe\desktop\tnm084 labs\lab1.4\noise\noise1234.c
+	"noise1234.h"
+
+1698675182 c:\users\bmwpe\desktop\tnm084 labs\lab1.4\noise\noise1234.h
+
+1698675182 source:c:\users\bmwpe\desktop\tnm084 labs\lab1.4\noise\simplexnoise1234.c
+	"simplexnoise1234.h"
+
+1698675182 c:\users\bmwpe\desktop\tnm084 labs\lab1.4\noise\simplexnoise1234.h
+
+1709675352 source:c:\users\bmwpe\desktop\tnm084 labs\lab1.4\lab1.c
+	"MicroGlut.h"
+	"GL_utilities.h"
+	<math.h>
+	<stdio.h>
+	"VectorUtils4.h"
+	"LittleOBJLoader.h"
+	"noise1234.h"
+	"simplexnoise1234.h"
+	"cellular.h"
+
+1698675177 c:\users\bmwpe\desktop\tnm084 labs\common\vectorutils4.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	<math.h>
+	<stdio.h>
+
+1698675177 c:\users\bmwpe\desktop\tnm084 labs\common\littleobjloader.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	"VectorUtils4.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"VectorUtils4.h"
+
